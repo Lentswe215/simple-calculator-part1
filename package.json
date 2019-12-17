@@ -1,11 +1,22 @@
 {
-  "name": "ls",
+  "name": "simple-calculator-part-1",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Ephraim Mamonong",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lentswe215/simple-calculator-exercises.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lentswe215/simple-calculator-exercises/issues"
+  },
+  "homepage": "https://github.com/Lentswe215/simple-calculator-exercises#readme",
+  "description": "",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
 }
